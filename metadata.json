@@ -1,0 +1,6 @@
+{
+  "name": "SheetPost Studio",
+  "description": "Product promotional banner studio, automated social post scheduler, and customer order management integrated with Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
